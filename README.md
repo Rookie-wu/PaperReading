@@ -1,5 +1,5 @@
 # PaperReading
-2017.09~2018.08 historical artical  
+2017.09~2018.08  
 Convolutional Pose Machines.pdf  
 DensePose.Dense Human Pose Estimation In The Wild.pdf  
 Faster R-CNN Towards Real-Time Object.pdf  
