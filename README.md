@@ -20,3 +20,6 @@ Learning to Detect Human-Object Interactions.pdf
 
 2018.10.12  
 Light-Head R-CNN: In Defense of Two-Stage Object Detector.pdf
+
+2018.10.15  
+ICAN: Instance-Centric Attention Network.pdf
