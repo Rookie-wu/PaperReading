@@ -23,3 +23,6 @@ Light-Head R-CNN: In Defense of Two-Stage Object Detector.pdf
 
 2018.10.15  
 ICAN: Instance-Centric Attention Network.pdf
+
+2018.10.19  
+Non-local Neural Networks.pdf
