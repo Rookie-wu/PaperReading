@@ -26,3 +26,6 @@ ICAN: Instance-Centric Attention Network.pdf
 
 2018.10.19  
 Non-local Neural Networks.pdf
+
+2018.10.21  
+Scaling Human-Object Interaction Recognition through Zero-Shot Learning.pdf
