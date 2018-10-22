@@ -29,3 +29,6 @@ Non-local Neural Networks.pdf
 
 2018.10.21  
 Scaling Human-Object Interaction Recognition through Zero-Shot Learning.pdf
+
+2018.10.22  
+Detecting Visual Relationships Using Box Attention.pdf
