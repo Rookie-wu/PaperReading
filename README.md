@@ -32,3 +32,6 @@ Scaling Human-Object Interaction Recognition through Zero-Shot Learning.pdf
 
 2018.10.22  
 Detecting Visual Relationships Using Box Attention.pdf
+
+2018.11.06  
+FOTS: Fast Oriented Text Spotting with a Unified Network.pdf
